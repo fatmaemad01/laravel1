@@ -1,0 +1,55 @@
+table {
+    width: 1196px;
+    margin-left: 95px;
+    margin-top: 55px;
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+
+
+.logo .par1 {
+    color: red;
+    padding-left: 1209px;
+    margin-top: -52px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.logo .par2 {
+    padding-left: 1185px;
+    font-size: 15px;
+    font-weight: bolder;
+    margin-top: -16px;
+}
+
+
+.logo img {
+    padding-left: 1400px;
+}
+
+.head {
+    background-color: rgb(205, 204, 204);
+}
+
+
+td,
+th {
+    padding: 15px;
+    border: 1px solid black;
+}
+
+
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.buttons .btn1 {
+    margin-right: 32px;
+    margin-top: 416px;
+    font-size: 15px;
+    box-shadow: 5px 10px 8px #888888;
+}
